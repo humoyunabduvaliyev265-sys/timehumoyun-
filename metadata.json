@@ -1,0 +1,6 @@
+{
+  "name": "EARTH 360 TIME MACHINE AI",
+  "description": "Explore planet Earth in interactive 3D, travel through historical eras from ancient empires to the Silk Road, and simulate future worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
